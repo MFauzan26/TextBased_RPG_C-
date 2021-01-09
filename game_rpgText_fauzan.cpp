@@ -1,8 +1,5 @@
 /*
 dibuat oleh Muhammad Fauzan
-Kelas 1B
-20210053
-Game Technology
 
 Game simple Turn Based Style berbasis text
 */
